@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    childprocess (3.0.0)
+    kinchan (0.1.0)
+      require_all (~> 3.0.0)
+      selenium-webdriver (~> 3.142.6)
+    require_all (3.0.0)
+    rubyzip (2.0.0)
+    selenium-webdriver (3.142.6)
+      childprocess (>= 0.5, < 4.0)
+      rubyzip (>= 1.2.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  kinchan (~> 0.1.0)
+
+BUNDLED WITH
+   2.1.2
